@@ -4,7 +4,7 @@ Uma lista de melhores práticas e guias de estilo para usar no VueJs.
 
 Os pontos abaixo são alguns deles relacionados à funcionalidade / otimização, outros são convenções de nomenclatura e ordem de elementos do VueJs.
 
-## 1. Sempre use `kebab case` para nomes de eventos personalizados
+## 1. Sempre use `kebab-case` para nomes de eventos personalizados
 
 - Por quê?
   - Porque os eventos serão transformados automaticamente em `kebab-case`. Nós nunca vamos estar ouvindo um evento em `camelCase` ou `PascalCase`, portanto, faz mais sentido declarar o evento da mesma maneira que vamos ouvi-lo: no caso do 'kebab case'.
